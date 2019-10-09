@@ -1,0 +1,15 @@
+mod+j = move para a esquerda
+mod+k = move para baixo
+mod+l = move para cima
+
+mod+v = proximo container sera dividido na vertical
+mod+h = proximo container sera dividido na horizontal
+
+mod+shift+j = muda container para dividir na horizontal
+mod+shift+k = muda container para dividir na vertical
+
+mod+num = muda workspaces de 1 a 9
+
+mod+shift+q = fecha container
+
+mod+d = abre menu para abrir aplicações (dmenu)
