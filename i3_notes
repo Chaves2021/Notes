@@ -9,6 +9,7 @@ mod+shift+j = muda container para dividir na horizontal
 mod+shift+k = muda container para dividir na vertical
 
 mod+num = muda workspaces de 1 a 9
+mod+shift+num = muda container ativo para o workspace num
 
 mod+shift+q = fecha container
 
