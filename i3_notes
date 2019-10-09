@@ -14,3 +14,5 @@ mod+shift+num = muda container ativo para o workspace num
 mod+shift+q = fecha container
 
 mod+d = abre menu para abrir aplicações (dmenu)
+
+mod+shift+e = logout (session off)
