@@ -1,0 +1,8 @@
+#Tips and Tricks
+-Ctrl+alt+F1 até ctrl+alt+F6 abrem sessões em modo texto, e Ctrl+alt+F7 volta para a interface
+
+
+
+#Medidas de segurança
+-Criar partições diferentes para /, /home, /var, /usr
+-Instalar firewall
